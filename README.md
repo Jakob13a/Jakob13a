@@ -8,13 +8,11 @@
 
 ## 👋 About Me
 
-Ich baue und betreibe mehrere Full-Stack-Webanwendungen und Discord-Bots – von der eigenen Serverinfrastruktur bis zum letzten Prisma-Migrationsskript. Meine Projekte laufen als vernetzte Services mit eigenem Deployment-Pipeline (lokaler Build → WinSCP → PM2 → Nginx).
+Ich baue und betreibe mehrere Full-Stack-Webanwendungen und Discord-Bots, von der eigenen Serverinfrastruktur bis zum letzten Prisma-Migrationsskript. Meine Projekte laufen als vernetzte Services mit eigenem Deployment-Pipeline (lokaler Build → WinSCP → PM2 → Nginx).
 
 - 🔭 Aktuell an **TEG-Bot** (Discord-Moderationsbot) und **Nexora Analytics** (Aktienanalyse-Webapp)
 - 🛠️ Eigene Serverinfrastruktur auf HidenCloud (Pterodactyl, PM2, Nginx, NeonDB)
 - 🎮 Baue Moderations- & Management-Tools für die Gaming-Community **TEG – The Exceptional Gamer**
-- 🤝 Arbeite u.a. mit **@Moritz** an gemeinsamen Projekten
-- 💬 Frag mich zu Discord.js v14, Prisma, NeonDB oder PM2-Deployments
 
 <br/>
 
