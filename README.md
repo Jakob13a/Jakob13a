@@ -69,14 +69,27 @@ Full-Stack-App zur Klassenkassenverwaltung – Rollen-/Rechtesystem, 2FA mit Bac
 </td>
 <td width="50%">
 
-### 🖥️ Jack Control Center
-Persönliches Server-Management-Dashboard für die HidenCloud-Infrastruktur mit Echtzeit-Metriken, PM2-Steuerung, Health-Checks und zehn Themenbereichen.
+### 🧠 Süchtling Spaß Quiz
+Live-Multiplayer-Quiz mit Buzzer-, Multiple-Choice-, Wahr/Falsch- und Eintipp-Modus. Echtzeit-Synchronisation über Firebase Realtime Database, eigene TV-Ansicht für Beamer/Stream, Admin-Panel mit Punktevergabe und Live-Leaderboard.
 
-`TypeScript` `Express` `systeminformation`
+`HTML/CSS/JS` `Firebase Realtime DB` `Netlify`
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
+
+## 🟢 Live Status
+
+<div align="center">
+
+![TEG Straf- & Vorfallverwaltung](https://img.shields.io/website?url=https%3A%2F%2Fteg-strafverwaltung.duckdns.org&label=TEG%20Strafverwaltung&up_color=00FF9C&up_message=online&down_color=critical&down_message=offline&style=for-the-badge)
+![Nexora Analytics](https://img.shields.io/website?url=https%3A%2F%2Faktienanalyse.hidenfree.com&label=Nexora%20Analytics&up_color=00FF9C&up_message=online&down_color=critical&down_message=offline&style=for-the-badge)
+![Klassenkasse](https://img.shields.io/website?url=https%3A%2F%2Fklassenkassa.hidenfree.com&label=Klassenkasse&up_color=00FF9C&up_message=online&down_color=critical&down_message=offline&style=for-the-badge)
+![Süchtling Quiz](https://img.shields.io/website?url=https%3A%2F%2Fsuechtling-quiz.netlify.app&label=S%C3%BCchtling%20Quiz&up_color=00FF9C&up_message=online&down_color=critical&down_message=offline&style=for-the-badge)
 
 </div>
 
@@ -97,6 +110,34 @@ Persönliches Server-Management-Dashboard für die HidenCloud-Infrastruktur mit 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jakob13a&theme=react-dark&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&hide_border=true" width="95%" />
 
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Jakob13a&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+</div>
+
+<br/>
+
+## 🎮 Currently Building
+
+<div align="center">
+
+> 🖥️ **Jack Control Center** – persönliches Infra-Dashboard für PM2, Nginx & HidenCloud-Metriken in Echtzeit
+> 🛡️ **TEG Straf- & Vorfallverwaltung** – Discord-integriertes Incident-Management mit Audit-Log
+> 📈 **Nexora Analytics** – Live-Aktienanalyse mit KI-Prediction-Tracking
+
+</div>
+
+<br/>
+
+## 🎧 Discord Status
+
+<div align="center">
+<img src="https://lanyard-profile-readme.vercel.app/api/1084472641345302569?theme=dark&bg=0D1117&animated=true&hideDiscrim=true" width="350" />
 </div>
 
 <br/>
