@@ -126,7 +126,7 @@ Live-Multiplayer-Quiz mit Buzzer-, Multiple-Choice-, Wahr/Falsch- und Eintipp-Mo
 
 <div align="center">
 
-> 🖥️ **Jack Control Center** – persönliches Infra-Dashboard für PM2, Nginx & HidenCloud-Metriken in Echtzeit
+> 🧠 **Süchtling Spaß Quiz** – Live-Multiplayer-Quiz mit Buzzer-Modus & Firebase-Echtzeit-Sync
 > 🛡️ **TEG Straf- & Vorfallverwaltung** – Discord-integriertes Incident-Management mit Audit-Log
 > 📈 **Nexora Analytics** – Live-Aktienanalyse mit KI-Prediction-Tracking
 
