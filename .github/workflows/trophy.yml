@@ -1,0 +1,31 @@
+name: Generate Trophy
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # täglich um 02:00 UTC
+  workflow_dispatch: {}    # manuell auslösbar über den "Run workflow"-Button
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate trophy.svg
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Jakob13a
+          output_path: dist/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push output to "trophy-output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: trophy-output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
