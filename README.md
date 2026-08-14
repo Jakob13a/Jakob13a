@@ -117,7 +117,7 @@ Live-Multiplayer-Quiz mit Buzzer-, Multiple-Choice-, Wahr/Falsch- und Eintipp-Mo
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy-winning.vercel.app/?username=Jakob13a&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+<img src="https://raw.githubusercontent.com/Jakob13a/Jakob13a/trophy-output/trophy.svg" width="95%" />
 </div>
 
 <br/>
