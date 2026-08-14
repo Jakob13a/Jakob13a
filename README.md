@@ -117,7 +117,7 @@ Live-Multiplayer-Quiz mit Buzzer-, Multiple-Choice-, Wahr/Falsch- und Eintipp-Mo
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jakob13a&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=Jakob13a&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
 </div>
 
 <br/>
@@ -127,7 +127,9 @@ Live-Multiplayer-Quiz mit Buzzer-, Multiple-Choice-, Wahr/Falsch- und Eintipp-Mo
 <div align="center">
 
 > 🧠 **Süchtling Spaß Quiz** – Live-Multiplayer-Quiz mit Buzzer-Modus & Firebase-Echtzeit-Sync
+>
 > 🛡️ **TEG Straf- & Vorfallverwaltung** – Discord-integriertes Incident-Management mit Audit-Log
+>
 > 📈 **Nexora Analytics** – Live-Aktienanalyse mit KI-Prediction-Tracking
 
 </div>
