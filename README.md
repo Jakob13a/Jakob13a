@@ -86,12 +86,12 @@ Persönliches Server-Management-Dashboard für die HidenCloud-Infrastruktur mit 
 
 <div align="center">
 
-<img src="github-readme-stats-n9h6161t0-jakob13a1.vercel.app&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" width="48%" />
-<img src="github-readme-stats-n9h6161t0-jakob13a1.vercel.app&theme=radical&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C" width="48%" />
+<img src="https://github-readme-stats-opal-three-78.vercel.app/api?username=Jakob13a&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jakob13a&theme=radical&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakob13a&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C" width="48%" />
+<img src="https://github-readme-stats-opal-three-78.vercel.app/api/top-langs/?username=Jakob13a&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C" width="48%" />
 
 <br/><br/>
 
