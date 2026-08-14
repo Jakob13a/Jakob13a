@@ -114,14 +114,6 @@ Live-Multiplayer-Quiz mit Buzzer-, Multiple-Choice-, Wahr/Falsch- und Eintipp-Mo
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Jakob13a/Jakob13a/trophy-output/trophy.svg" width="95%" />
-</div>
-
-<br/>
-
 ## 🎮 Currently Building
 
 <div align="center">
